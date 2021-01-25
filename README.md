@@ -1,2 +1,2 @@
-# readme.md
-Worum geht es hier?
+# Willkommen
+Github Repository für 226308a Data Literacy
